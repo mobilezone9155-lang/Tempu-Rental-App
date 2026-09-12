@@ -1,0 +1,6 @@
+{
+  "name": "Tempu Rental",
+  "description": "On-demand tempo and commercial mini-truck rental for quick city logistics, shifting, and cargo delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
